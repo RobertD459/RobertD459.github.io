@@ -20,7 +20,7 @@ Data science training online will help you become proficient in Data Science, R 
 #### What should I do to unlock my Intellipaat certificate?
 You can unlock your Intellipaat certificate in three simple steps:
 
-1. Complete the Data Science course along with the given assignments
+1. Complete the [Data Science](https://intellipaat.com/blog/what-is-data-science/) course along with the given assignments
 2. Work on several industry-based projects and execute the same successfully
 3. Pass the certification exam
 
@@ -28,7 +28,7 @@ At Intellipaat, you can enroll in either the instructor-led online training or s
 
 ### Why should I learn Data Science from Intellipaat?
 
-Intellipaat offers exclusive Data Science online courses for professionals who want to expand their knowledge base and start a career in this field. There are many reasons for choosing Intellipaat:
+Intellipaat offers exclusive Data Science online courses for professionals who want to expand their knowledge base and start a career in this field. There are many reasons to [learn Data Science](https://intellipaat.com/blog/tutorial/data-science-tutorial/) from Intellipaat:
 
 A personal mentor to track your progress
 Immersive online instructor-led sessions conducted by SMEs
@@ -42,3 +42,7 @@ Personalized job support
 ### Does Intellipaat offer job assistance?
 
 Intellipaat actively provides placement assistance to all learners who have successfully completed the training. For this, we are exclusively tied-up with over 80 top MNCs from around the world. This way, you can be placed in outstanding organizations such as Sony, Ericsson, TCS, Mu Sigma, Standard Chartered, Cognizant, and Cisco, among other equally great enterprises. We also help you with the job interview and résumé preparation as well.
+
+### Important Resources:-
+. [Data Science Apriori algorithm](https://intellipaat.com/blog/data-science-apriori-algorithm/)
+. [Interview Questions on Data Science](https://intellipaat.com//blog/interview-question/data-science-interview-questions/)
