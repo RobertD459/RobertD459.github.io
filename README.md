@@ -44,5 +44,7 @@ Personalized job support
 Intellipaat actively provides placement assistance to all learners who have successfully completed the training. For this, we are exclusively tied-up with over 80 top MNCs from around the world. This way, you can be placed in outstanding organizations such as Sony, Ericsson, TCS, Mu Sigma, Standard Chartered, Cognizant, and Cisco, among other equally great enterprises. We also help you with the job interview and résumé preparation as well.
 
 ### Important Resources:-
+
 . [Data Science Apriori algorithm](https://intellipaat.com/blog/data-science-apriori-algorithm/)
+
 . [Interview Questions on Data Science](https://intellipaat.com//blog/interview-question/data-science-interview-questions/)
